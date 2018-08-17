@@ -6,6 +6,11 @@
 
 Install Angular `npm install -g @angular/cli`
 
+`npm install`
+
+`npm install typings --global`
+
+`typings install dt~google.maps --global --save`
 
 ## Development server
 
