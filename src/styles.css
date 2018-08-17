@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    opacity: 1;
+  background: linear-gradient(to bottom, #B290FF, #2E1D65);
+  transition: opacity 300ms linear;
+}
+h1, h2, h3{
+    color: white!important;
+}
