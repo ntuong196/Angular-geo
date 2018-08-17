@@ -1,20 +1,28 @@
-# GEO searching
+### GEO searching
 
 ## Setup environment
 
-!!!Install and update node & npm
+# Install Angular 
+`npm install -g @angular/cli`
 
-Install Angular `npm install -g @angular/cli`
-
+# Install all dependencies 
 `npm install`
 
+# Compile Google Map with typescript 
 `npm install typings --global`
 
 `typings install dt~google.maps --global --save`
 
 ## Development server
 
-Run `ng serve --open` for a dev server in project directory. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Open project driectory
+`cd Angular-geo`
+
+# Run the server 
+`ng serve --open` 
+
+# Navigate to localhost in the browser 
+`http://localhost:4200/`
 
 ## Build
 

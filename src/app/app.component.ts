@@ -1,6 +1,5 @@
-/// <reference types="@types/googlemaps" />
+/// <reference path="../../typings/index.d.ts" />
 import { Component, ViewChild } from '@angular/core';
-import { } from 'googlemaps';
 
 @Component({
   selector: 'app-root',
